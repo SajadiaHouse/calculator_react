@@ -1,0 +1,28 @@
+
+.body_bg{
+   background-color: #282c34;
+}
+.in{
+  font-size: 3.5em;
+  padding: 5px;
+  text-align: right;
+  color: black;
+  height: auto;
+}
+.btn{
+  width: 100%;
+  padding: 10px;
+  font-size: 2em;
+}
+.card-header{
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 1.5em;
+  background-color: rgb(255, 19, 255);
+  color: white;
+  text-shadow: 1px 1px rgb(2, 1, 1);
+}
+.card{
+  padding: 0;
+  margin: 0;
+}
